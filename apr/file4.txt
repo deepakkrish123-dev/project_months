@@ -2,6 +2,7 @@ How is everything going on?
 How is everything going on?
 answer-going good
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 how are you
 =======
@@ -12,3 +13,7 @@ final testing
 i have to test now pull method
 yes
 >>>>>>> calendar
+=======
+hello
+how are you
+>>>>>>> b0eb4a218f61d8d34572a25f4f99a138948a3d03
