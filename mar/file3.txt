@@ -1,2 +1,6 @@
 How are you
 answer- I am good
+hello
+how are you 
+i am testing this for merge
+thankyou
