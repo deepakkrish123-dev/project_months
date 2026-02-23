@@ -1,9 +1,14 @@
 How is everything going on?
 How is everything going on?
 answer-going good
+<<<<<<< HEAD
+hello
+how are you
+=======
 
 how are you
 final testing
 
 i have to test now pull method
 yes
+>>>>>>> calendar
